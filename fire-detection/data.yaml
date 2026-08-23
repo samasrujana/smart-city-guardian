@@ -1,0 +1,7 @@
+path: /kaggle/input/smoke-fire-detection-yolo/data
+train: train/images
+val: val/images
+test: test/images
+
+names: ['smoke', 'fire']
+nc: 2
