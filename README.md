@@ -88,8 +88,8 @@ smart-city-guardian/
 | Name | Module |
 |---|---|
 | Sama Srujana | Fire & Smoke Detection |
-| Chintham Sushma | Violence Detection |
-| Varshitha Penthala | Road Infrastructure + Garbage Detection |
+| Varshitha Penthala | Violence Detection |
+| Chintham Sushma  | Road Infrastructure + Garbage Detection |
 
 ## How to Run (Fire & Smoke module)
 
